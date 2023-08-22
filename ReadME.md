@@ -1,10 +1,10 @@
 # Appium Android Automation Project using TestNG in Java
 
-Welcome to the Appium Android Automation project using TestNG in Java! This project allows you to automate tests for Android applications using the Appium framework and TestNG as the testing framework. This README file will guide you through the setup process and provide instructions on how to run the tests and generate a report using Allure.
+This README file will guide you through the setup process and provide instructions on how to run the tests and generate a report using Allure.
 
 ## Prerequisites
 
-Before you begin, please ensure you have the following dependencies and configurations set up on your machine:
+Please ensure you have the following dependencies and configurations set up on your machine:
 
 1. **Java**: Install Java Development Kit (JDK) and set the `JAVA_HOME` environment variable to the JDK installation directory.
 
