@@ -1,0 +1,1 @@
+{"uuid":"c04186b9-eb0e-46b9-be4a-def756f25811","name":"ekarDemoTest.BaseTest.setup","children":["8616ee24-cc6c-4507-bc45-fed2bc7ed159"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1692735734844,"stop":1692735750491}],"afters":[],"start":1692735734844,"stop":1692735750491}

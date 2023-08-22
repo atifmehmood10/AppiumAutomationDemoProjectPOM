@@ -1,0 +1,9 @@
+ekarDemoApp\pages\MyPages.class
+ekarDemoApp\EkarTestBase.class
+ekarDemoApp\utilities\GestureUtils.class
+ekarDemoApp\utilities\WaitsUtils.class
+ekarDemoApp\utilities\PropertiesUtils.class
+ekarDemoApp\utilities\Log.class
+ekarDemoApp\pages\DocumentsUploadPage.class
+ekarDemoApp\constants\StringConstants.class
+ekarDemoApp\pages\HomePage.class
