@@ -36,5 +36,4 @@ The project is structured as follows:
 
 ## Test Configuration
 
-You can customize the test configuration by modifying the `src/main/resources/config.properties` file. This file contains parameters like the device name, platform version, app path, and other settings needed for test execution.
-
+You can customize the test configuration by modifying the `src/main/resources/config.properties` file.
